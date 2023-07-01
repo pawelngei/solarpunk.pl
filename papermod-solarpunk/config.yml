@@ -33,7 +33,7 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: true
+  # ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -54,29 +54,35 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Solarpunk w Polsce"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
-  # profile-mode
-  profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+  # # profile-mode
+  # profileMode:
+  #   enabled: false # needs to be explicitly set
+  #   title: ExampleSite
+  #   subtitle: "This is subtitle"
+  #   imageUrl: "<img location>"
+  #   imageWidth: 120
+  #   imageHeight: 120
+  #   imageTitle: my image
+  #   buttons:
+  #     - name: Posts
+  #       url: posts
+  #     - name: Tags
+  #       url: tags
 
   # home-info mode
   homeInfoParams:
-    Title: "Jesteśmy solarpunkami, ponieważ jedyne inne opcje to wyparcie lub rozpacz"
-    Content: Solarpunk to wciąż nowopowstający ruch społeczny i artystyczny głoszący radykalną nadzieję w obliczu nachodzących traum zmian klimatycznych.
+    # Title: ""
+    Logo: "/images/solarpunk-logo.svg"
+    Content: "
+      # Jesteśmy solarpunkami, ponieważ jedyne inne opcje to wyparcie lub rozpacz.\n 
+      &nbsp;\n
+      ### Solarpunk to wciąż nowopowstający ruch społeczny i artystyczny głoszący radykalną nadzieję w obliczu nachodzących traum zmian klimatycznych.\n
+      &nbsp;\n
+      "
 
   # socialIcons:
   #   - name: twitter
@@ -99,10 +105,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Zaproponuj zmiany" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Zaproponuj zmiany" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -124,10 +130,10 @@ menu:
       name: Opowiadania
       url: /opowiadania/
       weight: 20
-    - identifier: ksiazki
-      name: Książki
-      url: /ksiazki/
-      weight: 30
+    # - identifier: ksiazki
+    #   name: Książki
+    #   url: /ksiazki/
+    #   weight: 30
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
