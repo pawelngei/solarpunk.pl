@@ -2,6 +2,7 @@
 title: '"sustainability" to nie "zrównoważony rozwój"'
 # date: 2023-07-01T15:46:16+02:00
 draft: false
+weight: 3
 ---
 
 

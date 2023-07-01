@@ -2,6 +2,7 @@
 title: "Notatki do manifestu"
 # date: 2023-07-01T15:46:16+02:00
 draft: false
+weight: 2
 ---
 
 Ciężko jest być futurologiem mając mniej niż trzydzieści lat.

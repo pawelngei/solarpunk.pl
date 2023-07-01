@@ -2,6 +2,7 @@
 title: "Nowe zasady - Jerri Jerreat"
 # date: 2023-07-01T15:46:16+02:00
 draft: false
+weight: 1
 ---
 
 W połowie października poprosiłam moich dwunastolatków, żeby wyobrazili sobie, że zakładamy pierwszą osadę w historii ludzkości. Jakie chcielibyśmy mieć zasady?

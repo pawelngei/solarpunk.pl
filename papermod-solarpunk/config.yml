@@ -4,6 +4,8 @@ paginate: 5
 theme: PaperMod
 
 Copyright: "[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pl) [Paweł 'alxd' Ngei](https://alxd.org/)"
+DefaultContentLanguage: "pl"
+pluralizelisttitles: "false"
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -34,7 +36,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
   # ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
+  ShowRssButtonInSectionTermList: false
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -76,7 +78,7 @@ params:
   # home-info mode
   homeInfoParams:
     # Title: ""
-    Logo: "/images/solarpunk-logo.svg"
+    Logo: "/images/solarpunk-logo-colorless.svg"
     Content: "
       # Jesteśmy solarpunkami, ponieważ jedyne inne opcje to wyparcie lub rozpacz.\n 
       &nbsp;\n
@@ -130,6 +132,10 @@ menu:
       name: Opowiadania
       url: /opowiadania/
       weight: 20
+    - identifier: kurator
+      name: O kuratorze
+      url: https://alxd.org
+      weight: 30
     # - identifier: ksiazki
     #   name: Książki
     #   url: /ksiazki/
