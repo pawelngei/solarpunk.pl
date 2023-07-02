@@ -6,7 +6,8 @@ draft: false
 
 ## Blogposty
 
-- [Solarpunk w Jazdowie](https://19czwartych.art.blog/2021/09/07/solarpunk-spotkanie-jazdow2021/) autorstwa Asi Kaniewskiej na jej blogu 19czwartych porusza głównie temat estetyki ruchu
+- [Solarpunk w Jazdowie](https://19czwartych.art.blog/2021/09/07/solarpunk-spotkanie-jazdow2021/) autorstwa Asi Kaniewskiej na jej blogu 19czwartych to zapis spotkania, które odbyło się w sierpniu 2021 roku i miało za zadanie wprowadzić osoby uczestniczące w temat solarpunku. W trakcie prelekcji wywiązała się ciekawa dyskusja, między innymi na temat optymizmu w literaturze oraz „aplikowalności” solarpunka w prawdziwym świecie.
+
 
 - [Ekofikcje](https://wordsmith.social/ekofikcje/) - blog o fantastyce, ekologii, zmianach klimatu, apokalipsie i utopiach, ma również swój fanpage na [Facebooku](https://www.facebook.com/ekofikcje)
 
@@ -20,7 +21,8 @@ draft: false
 
 ## Audio
 
-- [Audycja "Dancing in Dystopia"](https://radiokapital.pl/shows/dancing-in-dystopia/04-solarpunk-wstep/) Asi Kaniewskiej w Radiu Kapitał ma odcinek o estetyce solarpunka
+- [Audycja "Dancing in Dystopia"](https://radiokapital.pl/shows/dancing-in-dystopia/04-solarpunk-wstep/) Asi Kaniewskiej w Radiu Kapitał. Czwarty odcinek skupia się na wprowadzeniu do solarpunku. Usłyszycie w nim o definicji, początkach i inspiracjach nurtu, jego literaturze i estetyce… A także o tym, czy sama estetyka bez „przekazu” wnosi coś lepszego do świata. W odcinku znalazło się tez miejsce na muzykę współgrającą z solarpunkową filozofią.
+
 
 ## Inicjatywy
 
