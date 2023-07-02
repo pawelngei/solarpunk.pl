@@ -139,10 +139,14 @@ menu:
       name: Źródła
       url: /zrodla/
       weight: 30
+    - identifier: ilustracje
+      name: Ilustracje
+      url: /ilustracje/
+      weight: 40
     - identifier: kurator
       name: O kuratorze
       url: https://alxd.org
-      weight: 40
+      weight: 50
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
