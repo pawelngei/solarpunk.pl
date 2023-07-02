@@ -1,0 +1,62 @@
+/* :root {
+  --theme: rgb(255, 255, 255);
+  --entry: rgb(255, 255, 255);
+  --primary: rgb(30, 30, 30);
+  --secondary: rgb(108, 108, 108);
+  --tertiary: rgb(214, 214, 214);
+  --content: rgb(31, 31, 31);
+  --hljs-bg: rgb(28, 29, 33);
+  --code-bg: rgb(245, 245, 245);
+  --border: rgb(238, 238, 238);
+}
+
+.dark {
+  --theme: rgb(29, 30, 32);
+  --entry: rgb(46, 46, 51);
+  --primary: rgb(218, 218, 219);
+  --secondary: rgb(155, 156, 157);
+  --tertiary: rgb(65, 66, 68);
+  --content: rgb(196, 196, 197);
+  --hljs-bg: rgb(46, 46, 51);
+  --code-bg: rgb(55, 56, 62);
+  --border: rgb(51, 51, 51);
+} */
+
+:root {
+  --theme: #FFE77A;
+  --entry: #ffec94;
+  --primary: #255026;
+  --secondary: #2C5F2D;
+  --tertiary: #09810b;
+  --content: #2C5F2D;
+  --hljs-bg: #2C5F2D;
+  --code-bg: #FFE77A;
+  --border: #255026;
+}
+
+.dark {
+  --theme: #2C5F2D;
+  --entry: #255026;
+  --primary: #e8d000; 
+  /* FFE77A */
+  /* e8d000 */
+  --secondary: #FFE77A;
+  --tertiary: #ded29c;
+  --content: #FFE77A;
+  --hljs-bg: #255026;
+  --code-bg: #204621;
+  --border: #204621;
+}
+
+.site-landing-logo {
+  width: 50%;
+  height: 50%;
+}
+
+.site-landing-logo svg {
+  color: var(--primary);
+  height: 100% !important;
+  width: 100% !important;
+  display: block;
+  position: relative;
+}
