@@ -134,14 +134,15 @@ menu:
       name: Opowiadania
       url: /opowiadania/
       weight: 20
+
+    - identifier: zrodla
+      name: Źródła
+      url: /zrodla/
+      weight: 30
     - identifier: kurator
       name: O kuratorze
       url: https://alxd.org
-      weight: 30
-    # - identifier: ksiazki
-    #   name: Książki
-    #   url: /ksiazki/
-    #   weight: 30
+      weight: 40
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
