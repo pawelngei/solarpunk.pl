@@ -80,9 +80,11 @@ params:
     # Title: ""
     Logo: "/images/solarpunk-logo-colorless.svg"
     Content: "
-      # Jesteśmy solarpunkami, ponieważ jedyne inne opcje to wyparcie lub rozpacz.\n 
+      # Jesteśmy solarpunkami, ponieważ jedyne alternatywy to wyparcie lub rozpacz.\n 
       &nbsp;\n
       ### Solarpunk to wciąż nowopowstający ruch społeczny i artystyczny głoszący radykalną nadzieję w obliczu nachodzących traum zmian klimatycznych.\n
+      &nbsp;\n
+      ### Głosi on potrzebę tworzenia nowych opowieści o przyszłości - jak i oddolnego wprowadzania ich w życie już dziś.\n
       &nbsp;\n
       "
 
