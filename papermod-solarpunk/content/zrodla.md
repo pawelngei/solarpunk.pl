@@ -18,6 +18,9 @@ draft: false
   - [Solarpunk kontra mainstream](https://www.youtube.com/watch?v=kCBkB8Fes5c)
   - [Dewzrost w 7 minut](https://www.youtube.com/watch?v=3EnHP1enFhM)
 
+- [Kindness is punk as fuck](https://www.youtube.com/watch?v=e8B_tbVW0hE) - Błażej Jaworowski o Solarpunku na Konline 2022.
+
+- [Narracje technologiczne: solarpunk, cyberpunk, popkultura](https://www.youtube.com/watch?v=gsShFsagy0U) - Paweł Ngei o niewypowiedzianych na głos wartościach obecnych w głównym nurcie kultury, o tym co nam sugerują, na co każą przymknąć oczy - i jak wpływają na nasze życie. Filozofikon 2021.
 
 ## Audio
 
@@ -31,3 +34,5 @@ draft: false
 ## W prasie
 
 - [Solarpunk w "Jutronautach" Wyborczej](https://wyborcza.pl/magazyn/7,124059,29139718,haker-i-aktywista-klimatyczny-mam-dosc-iron-mana-batmana.html) - wywiad Jakuba Kibitlewskiego z Pawłem Ngei, dostępny za paywallem
+
+- [Solarpunk. Przypominając sobie nadzieję](https://www.miesiecznik.znak.com.pl/solarpunk-przypominajac-sobie-nadzieje/) - esej Pawła Ngei w Miesięczniku ZNAK, dostepny za paywallem. Oprócz ogólnego opisu ruchu mówi o potrzebach przepracowywania traum i kontraście z longtermizmem. 
