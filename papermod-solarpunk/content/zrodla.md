@@ -31,6 +31,8 @@ draft: false
 
 - [Solarpunkowy Konkurs Optymistycznej Fikcji Klimatycznej](https://solarpunk.edu.pl/) był konkursem literackim dla młodzieży w latach 2020 i 2022, w ramach którego powstały tłumaczenia wielu z dostępnych na tej stronie opowiadań
 
+- [Opowiadanie Światów](https://www.wielozmysly.org/pl/projekt/opowiadanie-swiatow) [Fundacji Wielozmysły](https://www.wielozmysly.org/pl), rozpoczęty w 2022 roku projekt skierowany do młodzieży, mający na celu stworzenie solarpunkowego słuchowiska. To w ramach "Opowiadania..." powstało otwarte tłumaczenie [Naukowych Aspektów Pacyficznej Apokalipsy](/opowiadania/naukowe-aspekty-pacyficznej-apokalipsy) dostępne na tej stronie.
+
 ## W prasie
 
 - [Solarpunk w "Jutronautach" Wyborczej](https://wyborcza.pl/magazyn/7,124059,29139718,haker-i-aktywista-klimatyczny-mam-dosc-iron-mana-batmana.html) - wywiad Jakuba Kibitlewskiego z Pawłem Ngei, dostępny za paywallem
