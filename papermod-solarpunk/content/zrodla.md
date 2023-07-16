@@ -37,4 +37,6 @@ draft: false
 
 - [Solarpunk w "Jutronautach" Wyborczej](https://wyborcza.pl/magazyn/7,124059,29139718,haker-i-aktywista-klimatyczny-mam-dosc-iron-mana-batmana.html) - wywiad Jakuba Kibitlewskiego z Pawłem Ngei, dostępny za paywallem
 
-- [Solarpunk. Przypominając sobie nadzieję](https://www.miesiecznik.znak.com.pl/solarpunk-przypominajac-sobie-nadzieje/) - esej Pawła Ngei w Miesięczniku ZNAK, dostepny za paywallem. Oprócz ogólnego opisu ruchu mówi o potrzebach przepracowywania traum i kontraście z longtermizmem. 
+- [Solarpunk. Przypominając sobie nadzieję](https://www.miesiecznik.znak.com.pl/solarpunk-przypominajac-sobie-nadzieje/) - esej Pawła Ngei w Miesięczniku ZNAK, dostepny za paywallem. Oprócz ogólnego opisu ruchu mówi o potrzebach przepracowywania traum i kontraście z longtermizmem.
+
+- [Solarpunk - ekologiczna utopia](https://smokopolitan.pl/archiwum/) Anny Łagan z 10go numeru Smokopolitana (2017, dostepny za darmo) wspominaja też więcej o polskim kontekście fantastycznym, dotąd zdominowanym raczej przez prawicę i myśli neoliberalne.
