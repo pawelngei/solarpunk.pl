@@ -22,6 +22,8 @@ draft: false
 
 - [Narracje technologiczne: solarpunk, cyberpunk, popkultura](https://www.youtube.com/watch?v=gsShFsagy0U) - Paweł Ngei o niewypowiedzianych na głos wartościach obecnych w głównym nurcie kultury, o tym co nam sugerują, na co każą przymknąć oczy - i jak wpływają na nasze życie. Filozofikon 2021.
 
+- [solarpunkowy piątek w GilotynaTV](https://www.youtube.com/watch?v=hrH6hh51f4k&t=4161s) - luty 2024 - wywiad Żubra z GilotynaTV z Pawłem Ngei na temat Solarpunka
+
 ## Audio
 
 - [Audycja "Dancing in Dystopia"](https://radiokapital.pl/shows/dancing-in-dystopia/04-solarpunk-wstep/) Asi Kaniewskiej w Radiu Kapitał. Czwarty odcinek skupia się na wprowadzeniu do solarpunku. Usłyszycie w nim o definicji, początkach i inspiracjach nurtu, jego literaturze i estetyce… A także o tym, czy sama estetyka bez „przekazu” wnosi coś lepszego do świata. W odcinku znalazło się tez miejsce na muzykę współgrającą z solarpunkową filozofią.
@@ -40,3 +42,9 @@ draft: false
 - [Solarpunk. Przypominając sobie nadzieję](https://www.miesiecznik.znak.com.pl/solarpunk-przypominajac-sobie-nadzieje/) - esej Pawła Ngei w Miesięczniku ZNAK, dostepny za paywallem. Oprócz ogólnego opisu ruchu mówi o potrzebach przepracowywania traum i kontraście z longtermizmem.
 
 - [Solarpunk - ekologiczna utopia](https://smokopolitan.pl/archiwum/) Anny Łagan z 10go numeru Smokopolitana (2017, dostepny za darmo) wspominaja też więcej o polskim kontekście fantastycznym, dotąd zdominowanym raczej przez prawicę i myśli neoliberalne.
+
+## Publikacje Naukowe
+
+- [Słoneczna synergia słowa i działania. Ruch solarpunkowy w Polsce](https://studiadecultura.up.krakow.pl/article/view/10866) - Kajetan Poniatyszyn - Annales Universitatis Paedagogicae Cracoviensis - Studia de Cultura 15(2) 2023 - _Celem artykułu jest zbadanie synergii słowa i działania w polskim ruchu solarpunkowym. W początkowej części autor omawia solarpunk jako podgatunek literatury science fiction o dużym potencjale futurologicznym, będący formą humanistyki zaangażowanej. Następnie skupia się na opisaniu ruchu solarpunkowego oraz analizuje go w ramach badań nad fandomem. W ostatniej części autor charakteryzuje trzy obszary działalności polskiego ruchu solarpunkowego – literacki, popularyzatorski oraz aktywistyczny._
+- [New Maps of Hope: Common Motifs and Narrative Structures in Solarpunk Stories](https://www.ojsltn.uni.lodz.pl/index.php/Zagadnienia-Rodzajow-Literackich/article/view/1931) - Michał Klata - Zagadnienia Rodzajów Literackich 65, 3. 57–71.
+- [Solarpunk–w stronę świetlanej przyszłości](https://www.ceeol.com/search/article-detail?id=1174458) - Dariusz Piechota - Annales Universitatis Mariae Curie‑Skłodowska. Sectio FF 1. 133–144.
