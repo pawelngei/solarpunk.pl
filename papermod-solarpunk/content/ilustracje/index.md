@@ -21,3 +21,11 @@ Mimo, że [Barbórka](https://pl.wikipedia.org/wiki/Barb%C3%B3rka) ma miejsce 4g
 ![Wioska na platformie wiertniczej autorstwa kolektywu Commando Jugendstil](./oilplatform.jpg)
 
 Ilustracja autorstwa kolektywu Commando Jugendstil przedstawia kolorową wioskę zbudowaną na opuszczonej platformie wiertniczej, niewykorzystywanej już w świecie bez paliw kopalnianych.
+
+## Kolorowa stołówka
+
+![Stołówka w odizolowanej placówce naukowej](stolowka.jpg)
+
+Ilutracja autorstwa [The Lemonaut](https://www.tumblr.com/the-lemonaut) przedstawiająca kolorową i pełną życia scenę z jednej z Zahaczek Solarpunkowych:
+
+> Stołówka w odizolowanej placówce naukowej / środowiskowej, gdzie naukowcy, inżynierowie, kucharze i pracownicy obsługi pokazują sobie nawzajem swoje ludzkie oblicze, jednocześnie pamiętając o tym, jak ważna jest ich rola tutaj i jak trudne warunki panują na zewnątrz (np. czyszczenie oceanów z plastiku, mierzenie poziomu lodu na biegunie północnym itp.).
