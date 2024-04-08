@@ -24,6 +24,8 @@ draft: false
 
 - [solarpunkowy piątek w GilotynaTV](https://www.youtube.com/watch?v=hrH6hh51f4k&t=4161s) - luty 2024 - wywiad Żubra z GilotynaTV z Pawłem Ngei na temat Solarpunka
 
+- [Jak pisać solarpunk? Utopia vs konflikt dramatyczny](https://www.youtube.com/watch?v=If_UU4LS_r4) - kwiecień 2024 - esej wideo Mataj Fiction / Mateusza Wyszyńskiego eksplorującego możliwe fabuły opowieści solarpunkowej
+
 ## Audio
 
 - [Audycja "Dancing in Dystopia"](https://radiokapital.pl/shows/dancing-in-dystopia/04-solarpunk-wstep/) Asi Kaniewskiej w Radiu Kapitał. Czwarty odcinek skupia się na wprowadzeniu do solarpunku. Usłyszycie w nim o definicji, początkach i inspiracjach nurtu, jego literaturze i estetyce… A także o tym, czy sama estetyka bez „przekazu” wnosi coś lepszego do świata. W odcinku znalazło się tez miejsce na muzykę współgrającą z solarpunkową filozofią.
