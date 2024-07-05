@@ -29,3 +29,11 @@ Ilustracja autorstwa kolektywu Commando Jugendstil przedstawia kolorową wioskę
 Ilutracja autorstwa [The Lemonaut](https://www.tumblr.com/the-lemonaut) przedstawiająca kolorową i pełną życia scenę z jednej z Zahaczek Solarpunkowych:
 
 > Stołówka w odizolowanej placówce naukowej / środowiskowej, gdzie naukowcy, inżynierowie, kucharze i pracownicy obsługi pokazują sobie nawzajem swoje ludzkie oblicze, jednocześnie pamiętając o tym, jak ważna jest ich rola tutaj i jak trudne warunki panują na zewnątrz (np. czyszczenie oceanów z plastiku, mierzenie poziomu lodu na biegunie północnym itp.).
+
+## Dom kultury
+
+![Dom kultury gdzie górnicy uczyli się nowych profesji](domkultury.jpg)
+
+Kolejna ilustracja [The Lemonaut](https://www.tumblr.com/the-lemonaut) przedstawiająca niegdyś mały Dom Kultury, teraz centrum "odnajdywania się na nowo" po utracie profesji i tożsamości:
+
+> Dom kultury początkowo założony, by pomóc górnikom w zdobyciu nowych umiejętności i znalezieniu innej pracy, teraz stał się miejscem nieoficjalnych „pielgrzymek” ludzi dążących do odnalezienia swojej roli w życiu i poznania historii od tych, którzy taką przemianę przeżyli.
