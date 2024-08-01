@@ -37,3 +37,11 @@ Ilutracja autorstwa [The Lemonaut](https://www.tumblr.com/the-lemonaut) przedsta
 Kolejna ilustracja [The Lemonaut](https://www.tumblr.com/the-lemonaut) przedstawiająca niegdyś mały Dom Kultury, teraz centrum "odnajdywania się na nowo" po utracie profesji i tożsamości:
 
 > Dom kultury początkowo założony, by pomóc górnikom w zdobyciu nowych umiejętności i znalezieniu innej pracy, teraz stał się miejscem nieoficjalnych „pielgrzymek” ludzi dążących do odnalezienia swojej roli w życiu i poznania historii od tych, którzy taką przemianę przeżyli.
+
+## Program kulinarny 
+
+![Program kulinarny promujący wegetariańską kuchnię w świecie, w którym zabrakło mięsa](kucharze.jpg)
+
+Tym razem [The Lemonaut](https://www.tumblr.com/the-lemonaut) zilustrowała jedną z mniej utopijnych, a bardziej dramatycznych zahaczek. Nie jest to wizja przyszłości do której dążymy, ale wśród pandemii i globalnych problemów infrastrukturalnych może być czymś, co napotkamy.
+
+> Grupa kucharzy, dietetyków i nauczycieli, których zadaniem jest tworzenie i promowanie dobrze dopracowanej i smacznej kuchni wegańskiej/wegetariańskiej w świecie przeżywającym szok kulturowy związany z brakiem niedrogiego mięsa. Czy uda im się powstrzymać masową panikę i zamieszki?
