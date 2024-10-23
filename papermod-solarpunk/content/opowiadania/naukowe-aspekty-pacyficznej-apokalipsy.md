@@ -1,5 +1,6 @@
 ---
-title: "Naukowe Aspekty Pacyficznej Apokalipsy - Octavia Cade"
+title: "Naukowe Aspekty Pacyficznej Apokalipsy"
+author: "Octavia Cade"
 # date: 2023-07-01T15:46:16+02:00
 draft: false
 weight: 3
