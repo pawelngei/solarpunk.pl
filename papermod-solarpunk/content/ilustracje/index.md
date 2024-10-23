@@ -45,3 +45,19 @@ Kolejna ilustracja [The Lemonaut](https://www.tumblr.com/the-lemonaut) przedstaw
 Tym razem [The Lemonaut](https://www.tumblr.com/the-lemonaut) zilustrowała jedną z mniej utopijnych, a bardziej dramatycznych zahaczek. Nie jest to wizja przyszłości do której dążymy, ale wśród pandemii i globalnych problemów infrastrukturalnych może być czymś, co napotkamy.
 
 > Grupa kucharzy, dietetyków i nauczycieli, których zadaniem jest tworzenie i promowanie dobrze dopracowanej i smacznej kuchni wegańskiej/wegetariańskiej w świecie przeżywającym szok kulturowy związany z brakiem niedrogiego mięsa. Czy uda im się powstrzymać masową panikę i zamieszki?
+
+## Krawcy
+
+![Warsztat krawiecki w odżywalnej solarpunkowej przyszłości](krawcy.jpg)
+
+[The Lemonaut](https://www.tumblr.com/the-lemonaut) wyobraża sobie, jaką rolę będzie pełniło krawiectwo w naszej odżywalnej przyszłości - wizualizując warsztat krawiecki w Afryce Subsaharyjskiej. Na podstawie Zahaczki:
+
+> Nowy Krawiec dołącza do społeczności, która nie miała takiego eksperta przez ostatnich kilka lat. W świecie zdecentralizowanej produkcji nie są już oni tylko rzemieślnikami, ale nauczycielami, ekspertami materiałoznawstwa, projektantami mody i tłumaczami kultur, dbając, by ubiór nie uraził nikogo w trakcie podróży. Czy społeczność zaakceptuje swojego nowego Krawca, znacznie mniej tadycyjnego od swojego poprzednika? Które z jego zachowań poruszyło wszystkich?
+
+## Drewniany blok mieszkalny
+
+![Dach drewnianego bloku mieszkalnego pokryty panelami słonecznymi i ogródkami warzywnymi, których doglądają mieszkańcy](blok.jpg)
+
+Wizja odżywalnego, drewnianego bloku mieszkalnego przyszłości stworzona przez Scan101 i [The Lemonaut](https://www.tumblr.com/the-lemonaut). Został on zbudowany z myślą o społeczności, posiadając mnóstwo przestrzeni wspólnych, a jego dach pokryty jest panelami słonecznymi i ogródkami warzywnymi doglądanymi przez mieszkańców. Ilustracja zainspirowana przez Zahaczkę:
+
+> Społeczność świeżo wprowadziła się do nowego, drewnianego, odżywalnego i udopornionego na zmiany klimatu bloku mieszkalnego. Został on zaprojektowany, by pomóc im stworzyć wspólnotę i zbliżyć się do siebie nawzajem. Dla części mieszkańców jest to szczyt marzeń, podczas gdy inni mierzą się z szokiem kulturowym. Wszyscy z nich stracili swoje poprzednie domy w pożarach, powodziach i programach przesiedleniowych. Kiedy dorośli stawiają czoła trudnym emocjom, ich dzieci z radością eksplorują fascynujące zakamarki budynku. 
