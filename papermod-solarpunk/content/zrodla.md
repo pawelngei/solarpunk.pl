@@ -45,6 +45,8 @@ draft: false
 
 - [Solarpunk - ekologiczna utopia](https://smokopolitan.pl/archiwum/) Anny Łagan z 10go numeru Smokopolitana (2017, dostepny za darmo) wspominaja też więcej o polskim kontekście fantastycznym, dotąd zdominowanym raczej przez prawicę i myśli neoliberalne.
 
+- [Solarpunk – ruch społeczny, który może przemówić do ludzi bardziej niż akcje Ostatniego Pokolenia](https://innpoland.pl/209981,co-to-jest-solarpunk-solarpunkowe-manifesto) Sebastiana Luc-Lepianki (2024) odnosi Solarpunka do protestów klimatycznych i przygląda się jego relacji z kapitalizmem.
+
 ## Publikacje Naukowe
 
 - [Słoneczna synergia słowa i działania. Ruch solarpunkowy w Polsce](https://studiadecultura.up.krakow.pl/article/view/10866) - Kajetan Poniatyszyn - Annales Universitatis Paedagogicae Cracoviensis - Studia de Cultura 15(2) 2023 - _Celem artykułu jest zbadanie synergii słowa i działania w polskim ruchu solarpunkowym. W początkowej części autor omawia solarpunk jako podgatunek literatury science fiction o dużym potencjale futurologicznym, będący formą humanistyki zaangażowanej. Następnie skupia się na opisaniu ruchu solarpunkowego oraz analizuje go w ramach badań nad fandomem. W ostatniej części autor charakteryzuje trzy obszary działalności polskiego ruchu solarpunkowego – literacki, popularyzatorski oraz aktywistyczny._
