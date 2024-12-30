@@ -60,4 +60,20 @@ Tym razem [The Lemonaut](https://www.tumblr.com/the-lemonaut) zilustrowała jedn
 
 Wizja odżywalnego, drewnianego bloku mieszkalnego przyszłości stworzona przez Scan101 i [The Lemonaut](https://www.tumblr.com/the-lemonaut). Został on zbudowany z myślą o społeczności, posiadając mnóstwo przestrzeni wspólnych, a jego dach pokryty jest panelami słonecznymi i ogródkami warzywnymi doglądanymi przez mieszkańców. Ilustracja zainspirowana przez Zahaczkę:
 
-> Społeczność świeżo wprowadziła się do nowego, drewnianego, odżywalnego i udopornionego na zmiany klimatu bloku mieszkalnego. Został on zaprojektowany, by pomóc im stworzyć wspólnotę i zbliżyć się do siebie nawzajem. Dla części mieszkańców jest to szczyt marzeń, podczas gdy inni mierzą się z szokiem kulturowym. Wszyscy z nich stracili swoje poprzednie domy w pożarach, powodziach i programach przesiedleniowych. Kiedy dorośli stawiają czoła trudnym emocjom, ich dzieci z radością eksplorują fascynujące zakamarki budynku. 
+> Społeczność świeżo wprowadziła się do nowego, drewnianego, odżywalnego i udopornionego na zmiany klimatu bloku mieszkalnego. Został on zaprojektowany, by pomóc im stworzyć wspólnotę i zbliżyć się do siebie nawzajem. Dla części mieszkańców jest to szczyt marzeń, podczas gdy inni mierzą się z szokiem kulturowym. Wszyscy z nich stracili swoje poprzednie domy w pożarach, powodziach i programach przesiedleniowych. Kiedy dorośli stawiają czoła trudnym emocjom, ich dzieci z radością eksplorują fascynujące zakamarki budynku.
+
+## Zajęcia z naprawy protez w Hakerspejsie
+
+![Panoramiczna ilustracja otwartego warsztatu podczas zajęć z naprawy protez w lokalnym hackerspace](hackerspace.jpg)
+
+Wypożyczalnie narzędzi, praktyczne biblioteki, makerspace'y i hackerspace'y są nieodzowną częścią solarpunkowych wizji przyszłości, w których wszystkie urządzenia wokół nas są długowieczne i naprawialne. Mało kto myśli jednak o protezach używanych przez niepełnosprawnych jako o czymś, o co mogą dbać - i co mogą dopasowywać do swoich potrzeb - sami użytkownicy!
+
+Ilustracja [The Lemonaut](https://www.tumblr.com/the-lemonaut) przedstawia otwarte zajęcia z modyfikacji i naprawy protez różnego rodzaju w żywym i kolorowym warsztacie z którego korzysta cała lokalna społeczność!
+
+Połączona jest ona z dwoma Zahaczkami:
+
+> Squat / hackerspace w mieście, które wciąż trzyma się starych schematów, podczas gdy reszta świata się zmienia. Aktywiści, technolodzy, wynalazcy i edukatorzy próbują pokazać społecznościom wokół siebie, że można żyć inaczej, a jednocześnie aktywnie spierają się o to, czyj plan jest najlepszy.
+
+> Społeczność osób z niepełnosprawnościami dzieli się najlepszymi sztuczkami, jak radzić sobie w trudnym świecie, który nie został dla nich stworzony. Wiele z tego, czym się dzielą, pozostaje niewypowiedziane, bo każdy z nich zna ból i wyzwania, z jakimi się mierzą.
+
+Jeżeli chcecie dowiedzieć się więcej o hakerspejsach i modyfikowaniu technologii przez niepełnosprawnych, zerknijcie na projekt [Glider.ink](https://glider.ink/pl/).
