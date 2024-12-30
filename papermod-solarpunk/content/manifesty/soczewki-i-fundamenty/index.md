@@ -1,6 +1,5 @@
 ---
 title: 'Soczewki i fundamenty'
-date: 2022-09-09
 draft: false
 weight: 4
 ---
