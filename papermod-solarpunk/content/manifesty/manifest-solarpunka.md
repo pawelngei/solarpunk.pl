@@ -1,6 +1,7 @@
 ---
 title: "Manifest Solarpunka"
 # date: 2023-07-01T15:46:16+02:00
+author: Społeczność Solarpunkowa / re-des.org
 draft: false
 weight: 1
 ---

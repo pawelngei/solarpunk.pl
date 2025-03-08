@@ -1,6 +1,7 @@
 ---
 title: "Notatki do manifestu"
 # date: 2023-07-01T15:46:16+02:00
+author: Adam Flynn
 draft: false
 weight: 2
 ---
