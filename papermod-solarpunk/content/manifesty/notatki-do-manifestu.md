@@ -14,7 +14,7 @@ Jesteśmy solarpunkami, ponieważ jedyne inne opcje to wyparcie lub rozpacz.
 
 W obietnicach Singularystów i [Transhumanistów](https://pl.wikipedia.org/wiki/Transhumanizm) jest miejsce dla jednostek, nie społeczeństw, a ich wizje przyszłości są pozbawione jakiejkolwiek równowagi. Jak wiele z nich może zdarzyć się w świecie, w którym energia nie jest tania i powszechnie dostępna, nie wspominając już o metalach ziem rzadkich[^peak-computing]?
 
-Solarpunk skupia się na znalezieniu sposobów, by uczynić życie lepszym już teraz, dla nas samych - i co jeszcze ważniejsze - dla przyszłych pokoleń. Chcemy przedłużenia ludzkiego życia na poziomie gatunku, nie tylko jednostki. Nasza przyszłość nie może być jednorazowa, musi przewidywać ponowne wykorzystanie przedmiotów czy budynków, z których korzystamy dziś - zamiast dwudziestowiecznego modernizmu, niszczącego i budującego od nowa. Nasza futurologia nie jest nihilistyczna jak [cyberpunk](https://pl.wikipedia.org/wiki/Cyberpunk) i stara się uniknąć potencjalnie reakcyjnych tendencji [steampunka](https://pl.wikipedia.org/wiki/Steampunk): głosimy pomysłowość, kreatywność, niezależność i nacisk na społeczności.
+Solarpunk skupia się na znalezieniu sposobów, by uczynić życie lepszym już teraz, dla nas samych - i co jeszcze ważniejsze - dla przyszłych pokoleń. Chcemy przedłużenia ludzkiego życia na poziomie gatunku, nie tylko jednostki. Nasza przyszłość nie może być jednorazowa, musi przewidywać ponowne wykorzystanie przedmiotów czy budynków, z których korzystamy dziś - zamiast dwudziestowiecznego modernizmu, niszczącego i budującego od nowa. Nasza futurologia nie jest nihilistyczna jak [cyberpunk](https://pl.wikipedia.org/wiki/Cyberpunk) i stara się uniknąć potencjalnie reakcyjnych tendencji [steampunka](https://pl.wikipedia.org/wiki/Steampunk): głosimy pomysłowość, konstruktywność[^konstruktywność], niezależność i nacisk na społeczności.
 
 Końcówka _-punk_ w Solarpunku nie znalazła się tam tylko dlatego, że dobrze brzmi. Oznacza ona sprzeciw, jednak sprzeciw wyrażony budowaniem podwalin pod nowe możliwości. Widać to już w próbach podejścia do rosnącej ilości paneli słonecznych przez administrację publiczną. "Budowa niezależnej infrastruktury to zapewnienie, że nikt nie odbierze obywatelowi jego niezależności", jak słusznie zauważył Chokwe Lumumba, burmistrz Jackson, Mississippi. Dostrzegamy zalety posiadania publicznej sieci energetycznej i chcemy ją podtrzymywać, jednak tylko zdrowa samowystarczalność społeczności lokalnych pozwoli im obronić się przed monopolistami chcącymi odciąć prąd całym dzielnicom, jak to się stało w Detroit[^Detroit].
 
@@ -35,7 +35,7 @@ Ilustrację zamieszczam za zgodą [Olivia/Land of Masks and Jewels](http://misso
 
 ---
 
-*Powyższy tekst jest moim tłumaczeniem [tekstu](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/) Adama Flynna, który w 2014 roku został zamieszczony na wiki [Projektu Hieroglyph](https://hieroglyph.asu.edu/). Jest to pierwsza kompleksowa próba opisu nowopowstającego ruchu literackiego i nowej wizji przyszłości zwanej "Solarpunkiem".*
+*Powyższy tekst jest moim tłumaczeniem [tekstu Adama Flynna](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/), który w 2014 roku został zamieszczony na wiki Projektu Hieroglyph. Jest to pierwsza kompleksowa próba opisu nowopowstającego ruchu literackiego i nowej wizji przyszłości zwanej "Solarpunkiem".*
 
 *Starałem się oddać treść oryginału tak wiernie jak to możliwe - zamieściłem też przypisy, które mogą pomóc zrozumieć polskim czytelnikom zagadnienia głęboko zakorzenione w kulturze Stanów Zjednoczonych.*
 
@@ -43,13 +43,13 @@ Ilustrację zamieszczam za zgodą [Olivia/Land of Masks and Jewels](http://misso
 
 *Ogromne dzięki Krzysztofowi Kornasowi za uwagi do tłumaczenia.*
 
-*Tłumaczenie to po raz pierwszy ukazało się na stronie [alxd.org](https://alxd.org/solarpunk-notatki-do-manifestu-pl.html).*
-
 [^ted-worldchanging]: [TED](https://www.ted.com/) jest serią konferencji (pod markami TED jak i TEDx) promujących innowacje, rozwój osobisty i ciekawe historie pod hasłem "idee warte propagowania". Nieistniejący już [worldchanging.com](https://en.wikipedia.org/wiki/Worldchanging) natomiast skupiał się na ekologii i zrównoważonym rozwoju. Obie serie wystąpień mają status dość kultowych w Stanach Zjedoczonych ze względu na wysoką jakość wykonania, przystępność i ambicję intelektualną.
 
 [^państwa-policyjne]: Militaryzacja policji jest znacznie bardziej widoczna w Stanach Zjednoczonych niż w Europie. Normą tam jest zakup broni czy wozów opancerzonych od wojska i wykorzystanie ich przeciwko cywilom, szczególnie w trakcie protestów, co znacznie zwiększa agresję policji i śmiertelność starć. Dla reszty świata bardziej widoczna może być postępująca inwigilacja i ograniczenia praw obywatelskich przez "[wojnę z terroryzmem](https://pl.wikipedia.org/wiki/Wojna_z_terroryzmem)".
 
 [^peak-computing]: Tak zwany "peak computing": założenie, że moc obliczeniowa komputerów na naszej planecie nie będzie rosła liniowo w nieskończoność jak to opisuje [Prawo Moore'a](https://pl.wikipedia.org/wiki/Prawo_Moore%E2%80%99a). W którymś momencie historii nasza moc obliczeniowa może zacząć spadać, najprawdopodobniej przez brak wystarczającej ilości energii lub wspomnianych metali ziem rzadkich.
+
+[^konstruktywność]: **EDIT 2025-03-08**: W oryginale _generativity_, od ang. _generative_ - budujący, konstruktywny, proaktywny, addytywny. Dziękuję dr Katarzynie Lubawie za zwrócenie uwagi na tłumaczenie w swoim doktoracie, "[Światło, ciepło, spalenie: solarność we współczesnej anglojęzycznej fantastyce naukowej](https://www.ukw.edu.pl/download/67685/KLubawa_rozprawa.pdf)", Bydgoszcz 2024
 
 [^Detroit]: Miasto [Detroit](https://pl.wikipedia.org/wiki/Detroit) w stanie Michigan, USA liczące ponad 700 tysięcy mieszkańców w 2013 roku [ogłosiło bankructwo](https://businessinsider.com.pl/usa-detroit-3-lata-po-bankructwie/2wghet5), co zaowocowało odłączeniem elektryczności i upadkiem infrastruktury w całych dzielnicach. W chwili obecnej usługi publiczne w wielu z nich praktycznie wciąż nie funkcjonują, klasy w szkołach mają ponad 60 osób i nie dość nauczycieli, aby obsadzić wszystkie przedmioty. Więcej zdjęć z Detroit można znaleźć [tutaj](http://detroiturbex.com/why/index.html).
 
